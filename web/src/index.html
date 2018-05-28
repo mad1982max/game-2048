@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" type="text/css" href="./style/style.css">
+  <title>Document</title>
+
+</head>
+<body>
+
+  <div class="content">
+
+  <div class="header">
+    <div class="num2 header_num">2</div>
+    <div class="num0 header_num">0</div>
+    <div class="num4 header_num">4</div>
+    <div class="num8 header_num">8</div>
+    <div class="header_text_game header_text">the game</div>
+    <div class="header_logo">2048</div>
+    <div class="header_user"></div>
+    <div class="header_scores">
+      <div class="scores_text">scores:</div>
+      <div class="scores">0</div>
+    </div>
+    <div class="header_record">
+      <div class="record_text">record:</div>
+      <div class="record">0</div>
+    </div>
+  </div>
+
+  <div class="main">
+    <div class="main_login-field">
+      <p> Please, enter</p>
+      <div class="login-field_container">
+        <label>
+          <p class="formP">Username</p>
+          <input id="login" type="text" name="uname" required>
+        </label>
+        <label>
+          <p class="formP">Password</p>
+          <input id="psw" type="text" name="uname" required>
+        </label>
+        <div id="errorField"><b>Use</b>: 0-9, a-z, min. 5 chars</div>
+
+      </div>
+    </div>
+
+    <a class="main_prev" ><i class="fa fa-chevron-left" aria-hidden="true"></i></a>
+
+    <div class="main_slider">
+
+      <div class="slides">
+        <img src="./img/img3x3.jpg" alt="img3x3" data-index = "3">
+        <div class="text">3 x 3</div>
+      </div>
+
+      <div class="slides">
+        <img src="./img/img4x4.jpg" alt="img4x4" data-index = "4">
+        <div class="text">4 x 4</div>
+      </div>
+
+      <div class="slides">
+        <img src="./img/img5x5.jpeg" alt="img5x5" data-index = "5">
+        <div class="text">5 x 5</div>
+      </div>
+
+      <div class="slides">
+        <img src="./img/img6x6.jpg" alt="img6x6" data-index = "6">
+        <div class="text">6 x 6</div>
+      </div>
+
+      <div class="slides">
+        <img src="./img/img8x8.jpg" alt="img8x8" data-index = "8">
+        <div class="text">8 x 8</div>
+      </div>
+    </div>
+
+    <a class="main_next" ><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+
+  </div>
+
+</div>
+
+  <div class="footer">
+    <div class="footer_btn-group">
+      <button id="btn1">Register</button>
+      <button id="btn2">Log in</button>
+    </div>
+  </div>
+
+  <div id="modal">
+    <div id="modal-content">
+      <span class="close">&times;</span>
+      <p>message</p>
+    </div>
+  </div>
+
+<script async src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+<script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+<script
+        src="https://code.jquery.com/color/jquery.color-2.1.2.min.js"
+        integrity="sha256-H28SdxWrZ387Ldn0qogCzFiUDDxfPiNIyJX7BECQkDE="
+        crossorigin="anonymous"></script>
+<script
+        type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/jquery-touchswipe@1.6.18/jquery.touchSwipe.min.js">
+</script>
+<script
+        type="text/javascript"
+        src="./js/bundle.js"></script>
+</body>
+</html>
