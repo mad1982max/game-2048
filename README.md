@@ -8,6 +8,7 @@
 ![page3](http://drive.google.com/uc?export=view&id=1zGCBjAWQL-KtEjBAcFmdFUsKdcP0kayA)
 ![pageLeaders](http://drive.google.com/uc?export=view&id=12m6VqWgnUjJ0YceNr2bVxGgkHTqECMDZ)
 
+
 STEPS:
 
 	$ git clone https://github.com/mad1982max/game-2048.git
