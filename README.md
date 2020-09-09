@@ -3,10 +3,10 @@
 ###### jQuery, Node.js, mongoDB (mLab)
 ***
 
-![page1](http://drive.google.com/uc?export=view&id=1Z_M0Cnan6R4fHVSmpoO3Olz9zUo7RsDZ)
-![page2](http://drive.google.com/uc?export=view&id=16SjrQX1LPl6bY4GGm1QMgs9On7BiDhM2)
-![page3](http://drive.google.com/uc?export=view&id=1zGCBjAWQL-KtEjBAcFmdFUsKdcP0kayA)
-![pageLeaders](http://drive.google.com/uc?export=view&id=12m6VqWgnUjJ0YceNr2bVxGgkHTqECMDZ)
+![page1](https://drive.google.com/uc?export=view&id=1Z_M0Cnan6R4fHVSmpoO3Olz9zUo7RsDZ)
+![page2](https://drive.google.com/uc?export=view&id=16SjrQX1LPl6bY4GGm1QMgs9On7BiDhM2)
+![page3](https://drive.google.com/uc?export=view&id=1zGCBjAWQL-KtEjBAcFmdFUsKdcP0kayA)
+![pageLeaders](https://drive.google.com/uc?export=view&id=12m6VqWgnUjJ0YceNr2bVxGgkHTqECMDZ)
 
 
 STEPS:
